@@ -1,3 +1,5 @@
+pip install pipwin
+pipwin install pyaudio
 import streamlit as st
 import pyaudio
 import wave
